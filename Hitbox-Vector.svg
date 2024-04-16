@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E05C5C;}
+	.st1{display:none;}
+	.st2{display:inline;fill:#B23F3F;}
+	.st3{display:inline;fill:#FF6A6A;}
+	.st4{display:inline;fill:#FFA9A9;}
+</style>
+<g id="Button_Rim">
+	<circle class="st0" cx="322" cy="395" r="85"/>
+	<circle class="st0" cx="515" cy="382" r="85"/>
+	<circle class="st0" cx="684" cy="467" r="86"/>
+	<circle class="st0" cx="768" cy="815" r="105"/>
+	<circle class="st0" cx="902" cy="587" r="105"/>
+	<circle class="st0" cx="919" cy="341" r="105"/>
+	<circle class="st0" cx="1113" cy="510" r="105"/>
+	<circle class="st0" cx="1132" cy="264" r="105"/>
+	<circle class="st0" cx="1355" cy="264" r="105"/>
+	<circle class="st0" cx="1336" cy="509" r="105"/>
+	<circle class="st0" cx="1561" cy="583" r="105"/>
+	<circle class="st0" cx="1579" cy="333" r="105"/>
+</g>
+<g id="Shadow" class="st1">
+	<circle class="st2" cx="322" cy="395" r="63"/>
+	<circle class="st2" cx="515" cy="382" r="63"/>
+	<circle class="st2" cx="684" cy="467" r="64"/>
+	<circle class="st2" cx="768" cy="815" r="83"/>
+	<circle class="st2" cx="902" cy="587" r="83"/>
+	<circle class="st2" cx="919" cy="341" r="83"/>
+	<circle class="st2" cx="1113" cy="510" r="83"/>
+	<circle class="st2" cx="1132" cy="264" r="83"/>
+	<circle class="st2" cx="1355" cy="264" r="83"/>
+	<circle class="st2" cx="1336" cy="509" r="83"/>
+	<circle class="st2" cx="1561" cy="583" r="83"/>
+	<circle class="st2" cx="1579" cy="333" r="83"/>
+</g>
+<g id="Button_Up" class="st1">
+	<circle class="st3" cx="322" cy="382" r="63"/>
+	<circle class="st3" cx="515" cy="369" r="63"/>
+	<circle class="st3" cx="684" cy="454" r="64"/>
+	<circle class="st3" cx="768" cy="802" r="83"/>
+	<circle class="st3" cx="902" cy="574" r="83"/>
+	<circle class="st3" cx="919" cy="328" r="83"/>
+	<circle class="st3" cx="1113" cy="497" r="83"/>
+	<circle class="st3" cx="1132" cy="251" r="83"/>
+	<circle class="st3" cx="1355" cy="251" r="83"/>
+	<circle class="st3" cx="1336" cy="496" r="83"/>
+	<circle class="st3" cx="1561" cy="570" r="83"/>
+	<circle class="st3" cx="1579" cy="320" r="83"/>
+</g>
+<g id="Button_Down" class="st1">
+	<circle class="st4" cx="322" cy="395" r="63"/>
+	<circle class="st4" cx="515" cy="382" r="63"/>
+	<circle class="st4" cx="684" cy="467" r="64"/>
+	<circle class="st4" cx="768" cy="815" r="83"/>
+	<circle class="st4" cx="902" cy="587" r="83"/>
+	<circle class="st4" cx="919" cy="341" r="83"/>
+	<circle class="st4" cx="1113" cy="510" r="83"/>
+	<circle class="st4" cx="1132" cy="264" r="83"/>
+	<circle class="st4" cx="1355" cy="264" r="83"/>
+	<circle class="st4" cx="1336" cy="509" r="83"/>
+	<circle class="st4" cx="1561" cy="583" r="83"/>
+	<circle class="st4" cx="1579" cy="333" r="83"/>
+</g>
+</svg>
